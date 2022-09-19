@@ -6,4 +6,4 @@
 
 ### 💻 Meu Portfólio
 
- -> [PATRICIO GABRIEL](https://lucenasoft.github.io/)
+ -> <a href="https://lucenasoft.github.io/" target="_blank">PATRICIO GABRIEL</a>
